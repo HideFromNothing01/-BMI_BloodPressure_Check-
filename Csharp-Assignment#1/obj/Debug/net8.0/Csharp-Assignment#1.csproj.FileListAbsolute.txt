@@ -1,0 +1,14 @@
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.exe
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.deps.json
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.runtimeconfig.json
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.dll
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\bin\Debug\net8.0\Csharp-Assignment#1.pdb
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.AssemblyInfoInputs.cache
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.AssemblyInfo.cs
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.csproj.CoreCompileInputs.cache
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.dll
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\refint\Csharp-Assignment#1.dll
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.pdb
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\Csharp-Assignment#1.genruntimeconfig.cache
+C:\Users\hidetoshi\Documents\Canada\Georgian@Ilac\3ed_semester\AspNET\DOT.NET-Assignment1\Csharp-Assignment#1\obj\Debug\net8.0\ref\Csharp-Assignment#1.dll
