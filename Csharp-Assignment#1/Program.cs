@@ -35,7 +35,7 @@ namespace Csharp_Assignment_1
             while (true) // Continue until "break"
             {
                 Console.Write("Enter your height (in cm): ");
-                // Use TryParse method and change the string input into double "hright": OK=>true and "break", NO=>false and warning/input again
+                // Use TryParse method and change the string input into double "height": OK=>true and "break", NO=>false and warning/input again
                 if (double.TryParse(Console.ReadLine(), out height))
                     break;
                 Console.WriteLine("Invalid input. Please enter a number.");
