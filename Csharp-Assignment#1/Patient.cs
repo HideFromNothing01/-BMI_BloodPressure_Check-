@@ -25,7 +25,7 @@ namespace Csharp_Assignment_1
         {
             // Blood pressure ranges based on the given criteria
             if (systolic < diastolic)
-                return "Ststolic shoud be higher than diastolic. Try it again!";
+                return "Systolic shoud be higher than diastolic. Try it again!";
             else if (systolic < 120 && diastolic < 80)
                 return "Normal";
             else if (systolic > 180 || diastolic > 120)
