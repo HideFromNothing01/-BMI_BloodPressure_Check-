@@ -54,7 +54,7 @@ namespace Csharp_Assignment_1
             string bmiStatus = bmi >= 25 ? "Overweight" : (bmi >= 18.5 && bmi < 25) ? "Normal (In the healthy range)" : "Underweight";
 
             Console.WriteLine($"\nFull Name: {FirstName} {LastName}");
-            Console.WriteLine($"Weight: {Weight} Kg");
+            Console.WriteLine($"Weight: {Weight} kg");
             Console.WriteLine($"Height: {Height} cm");
             Console.WriteLine($"Blood Pressure: {CalculateBloodPressure(systolic, diastolic)}");
             Console.WriteLine($"BMI: {bmi}");
