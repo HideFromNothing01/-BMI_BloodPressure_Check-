@@ -17,12 +17,12 @@ namespace Csharp_Assignment_1
             Console.Write("Enter your last name: ");
             string lastName = Console.ReadLine();
 
-            // Console.Write("Enter your weight (in Kg): ");
+            // Console.Write("Enter your weight (in kg): ");
             // double weight = Convert.ToDouble(Console.ReadLine());
             double weight;
             while (true) // Continue until "break"
             {
-                Console.Write("Enter your weight (in Kg): ");
+                Console.Write("Enter your weight (in kg): ");
                 // Use TryParse method and change the string input into double "weight": OK=>true and "break", NO=>false and warning/input again
                 if (double.TryParse(Console.ReadLine(), out weight))
                     break;
